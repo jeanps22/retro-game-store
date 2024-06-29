@@ -7,7 +7,6 @@ C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\Re
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\RetroGameStoreAPI.pdb
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\MediatR.dll
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\phili\OneDrive\Desktop\Estudos\Design Patterns\CQRS\retro-game-store\RetroGameStoreAPI\RetroGameStoreAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
