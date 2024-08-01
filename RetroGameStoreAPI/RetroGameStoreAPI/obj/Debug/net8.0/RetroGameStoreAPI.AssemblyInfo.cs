@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetroGameStoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35192dfc7dea21643865e2d7321fee4f971f77ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f97756bbc7bd40d23430443408e7bab4639f10")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetroGameStoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetroGameStoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
